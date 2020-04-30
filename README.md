@@ -1,1 +1,1 @@
-# square-space-theme
+# enspiral.com Square Space Theme
